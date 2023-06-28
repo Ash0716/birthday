@@ -1,0 +1,23 @@
+{
+  "greeting": "别来无恙",
+  "name": "小羽毛",
+  "greetingText": "这个名字真的很不错的说!",
+  "wishText": "愿我们的友谊长存! ;)",
+  "imagePath": "img/ash.png",
+  "text1": "今天是你的生日!!! :D",
+  "textInChatBox": "生日快乐!! 很多很多祝福的话...",
+  "sendButtonLabel": "发送",
+  "text2": "这是我以前经常做的事.",
+  "text3": "但是我停下了.",
+  "text4": "我明白了，我想做一些事情",
+  "text4Adjective": "特别的",
+  "text5Entry": "因为,",
+  "text5Content": "你是特别的",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "生日快乐!",
+  "outroText": "好啦，记得告诉我你喜不喜欢这个网页.",
+  "replayText": "或者点击重新观看一次.",
+  "outroSmiley": ":)"
+}
